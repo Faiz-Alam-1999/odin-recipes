@@ -1,1 +1,4 @@
 # odin-recipes
+This project is a reflection of the things I learnt through The Odin Project so far. It is a simple-basic retro-look website about recipes of foods which can be taken in one meal run. Every recipe is linked to specific recipe web-page, containing stuff like; images, description, ingredients, etc.
+
+I've used many cool & spicy tags & elements like; a, img (one of my fav), h2, ul, ol, etc.. The skills that I think required the most was the way the web-page might look, the design, for example I resized the images to not take the full space of the page (atleast for high-res images). Resource collecting required quite a movement of hands.
